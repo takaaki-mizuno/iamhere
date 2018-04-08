@@ -1,0 +1,5 @@
+[Slack]
+Team = [
+"xoxp-XXXXX", #Legacy Token 1
+"xoxp-YYYYY", #Legacy Token 2
+]
